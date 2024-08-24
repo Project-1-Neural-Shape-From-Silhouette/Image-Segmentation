@@ -60,10 +60,4 @@ python segmentation_GrabCut.py
 
 The results will be saved as segmented images with the background removed.
 
-## Examples
 
-Include example images and their segmented results here to showcase the performance of each method.
-
-## License
-
-Specify the license under which the code is shared, such as MIT License.
